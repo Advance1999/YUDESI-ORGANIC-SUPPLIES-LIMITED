@@ -1,0 +1,82 @@
+
+<h1 class='HeaderHolder'> Cassava Flour</h1>
+
+<p class='Data'>
+
+    Yudesi Cassava Flour is gluten-free, non-allergenic, grain-free and nut-free; low in calories, fat and sugar; and inexpensive. It has thermal and pasting properties
+
+</p>
+
+<div class='wastage'>
+
+    <img class='FoodWastage' src='/ASSETS/cassava flour.jpg'/>
+
+</div>
+
+<p class='Data'>
+
+This flour makes a good choice for people with health conditions like diabetes, high blood pressure or high cholesterol, since it’s extremely low in salt/sodium, sugar and fat, plus totally free from refined carbohydrates and synthetic ingredients. Depending on what other ingredients you use the flour with, it can help you maintain normal blood sugar and provide a good source of energy.
+
+</p>
+
+
+<h1 class='HeaderHolder'> Maize Flour</h1>
+
+<p class='Data'>
+
+    Maize meal is a staple food enjoyed in almost all African countries.
+
+</p>
+
+<div class='wastage'>
+
+    <img class='FoodWastage' src='/ASSETS/maize flour.jpg'/>
+
+</div>
+
+<p class='Data'>
+
+    Maize Flour is a popular ingredient in gluten free cooking and is versatile enough to use for both sweet and savoury dishes, giving a distinctive and appealing flavour.In addition to the starch, Maize Flour also contains fibre, protein and a small amount of fat.
+
+</p>
+
+<h1 class='HeaderHolder'> Rice </h1>
+
+<p class='Data'>
+
+    Rice meal is a staple food enjoyed in almost all African countries.
+
+</p>
+
+<div class='wastage'>
+
+    <img class='FoodWastage' src='/ASSETS/rice.jpg'/>
+
+</div>
+
+<p class='Data'>
+
+The rice is locally grown in Uganda as the leading incorporating a natural and organic touch. A ravishing grain in size, shape and taste With an enticing Aroma that relishes your taste buds and natural flavours along with a creamy whiteness in the grain dedicated to the feeling of Uganda.
+
+</p>
+
+
+<h1 class='HeaderHolder'> Ground Nuts </h1>
+
+<p class='Data'>
+
+    Rice meal is a staple food enjoyed in almost all African countries.
+
+</p>
+
+<div class='wastage'>
+
+    <img class='FoodWastage' src='/ASSETS/gnuts.png'/>
+
+</div>
+
+<p class='Data'>
+
+The rice is locally grown in Uganda as the leading incorporating a natural and organic touch. A ravishing grain in size, shape and taste With an enticing Aroma that relishes your taste buds and natural flavours along with a creamy whiteness in the grain dedicated to the feeling of Uganda.
+
+</p>
