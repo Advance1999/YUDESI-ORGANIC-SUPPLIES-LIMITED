@@ -6,7 +6,7 @@ const CONTACTUSPAGE=(DIV)=>{
     
     <header>
     
-    <img id='BackIcon'  class='logo' src='../../ASSETS/arrow.png'/>
+    <img id='BackIcon'  class='logo' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/arrow.png'/>
 
     <h1 class='CompanyName'>YUDESI ORGANIC SUPPLIES LIMITED</h1>
 
@@ -18,15 +18,15 @@ const CONTACTUSPAGE=(DIV)=>{
 
         <div class='contactUsSections'>
 
-            <img class='callimage' src='/ASSETS/call.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
 
-            <img class='callimage' src='/ASSETS/location.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/location.png'/>
 
-            <img class='callimage' src='/ASSETS/gmail-logo.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gmail-logo.png'/>
 
-            <img class='callimage' src='/ASSETS/mailbox.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/mailbox.png'/>
 
-            <img class='callimage' src='/ASSETS/whatsapp.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/whatsapp.png'/>
 
         </div>
 

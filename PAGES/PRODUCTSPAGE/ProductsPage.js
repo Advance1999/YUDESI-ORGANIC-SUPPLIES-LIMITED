@@ -7,7 +7,7 @@ const PRODUCTSPAGE=(DIV)=>{
     
     <header>
     
-    <img id='BackIcon'  class='logo' src='../../ASSETS/arrow.png'/>
+    <img id='BackIcon'  class='logo' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/arrow.png'/>
 
     <h1 class='CompanyName'>YUDESI ORGANIC SUPPLIES LIMITED</h1>
 
@@ -26,7 +26,7 @@ const PRODUCTSPAGE=(DIV)=>{
     `
     const DATADIV=document.querySelector('.Boodydata')
     
-    fetch('/ASSETS/Products.txt')
+    fetch('https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/Products.txt')
 
     .then(res=>res.text())
 
@@ -36,7 +36,7 @@ const PRODUCTSPAGE=(DIV)=>{
         
         <div class='ContactUsDiv'>
 
-        <img class='callimage' src='/ASSETS/call.png'/>
+        <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
 
         </div>
         `

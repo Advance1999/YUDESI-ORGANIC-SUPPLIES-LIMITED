@@ -8,7 +8,7 @@ const HOMEPAGE=(DIV)=>{
     
     <header>
     
-        <img  class='logo' src='../../ASSETS/WhatsApp Image 2024-02-11 at 16.19.25 (1).jpeg'/>
+        <img  class='logo' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/WhatsApp Image 2024-02-11 at 16.19.25 (1).jpeg'/>
 
         <h1 class='CompanyName'>YUDESI ORGANIC SUPPLIES LIMITED</h1>
         
@@ -47,37 +47,37 @@ const HOMEPAGE=(DIV)=>{
 
             <div class='FoodWastage1'>
             
-                <img class='FoodWastag'  src='/ASSETS/food wastage.jpg'/>
+                <img class='FoodWastag'  src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/hardwork.jpg'/>
 
             </div>
 
             <div class='FoodWastage1'>
             
-                <img class='FoodWastag'  src='/ASSETS/food wastage.jpg'/>
+                <img class='FoodWastag' id='corrected'  src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/hard.jpg'/>
 
             </div>
 
             <div class='FoodWastage1'>
             
-                <img class='FoodWastag' src='/ASSETS/food wastage.jpg'/>
+                <img class='FoodWastag' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/casaavaplantation.jpg'/>
 
             </div>
 
             <div class='FoodWastage1'>
             
-                <img class='FoodWastag' src='/ASSETS/food wastage.jpg'/>
+                <img class='FoodWastag' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/sorghum.jpg'/>
 
             </div>
 
             <div class='FoodWastage1'>
             
-                <img class='FoodWastag' src='/ASSETS/food wastage.jpg'/>
+                <img class='FoodWastag' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/cassava.jpg'/>
 
             </div>
 
             <div class='FoodWastage1'>
         
-                <img class='FoodWastag' src='/ASSETS/food wastage.jpg'/>
+                <img class='FoodWastag' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/beans.jpg'/>
 
             </div>
 
@@ -102,15 +102,15 @@ const HOMEPAGE=(DIV)=>{
 
         <div class='contactUsSections'>
 
-            <img class='callimage' src='/ASSETS/call.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
 
-            <img class='callimage' src='/ASSETS/location.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/location.png'/>
 
-            <img class='callimage' src='/ASSETS/gmail-logo.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gmail-logo.png'/>
 
-            <img class='callimage' src='/ASSETS/mailbox.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/mailbox.png'/>
 
-            <img class='callimage' src='/ASSETS/whatsapp.png'/>
+            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/whatsapp.png'/>
 
         </div>
 
