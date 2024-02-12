@@ -9,7 +9,7 @@
 
 <div class='wastage'>
 
-    <img class='FoodWastage' src='/ASSETS/cassava flour.jpg'/>
+    <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/cassava flour.jpg'/>
 
 </div>
 
@@ -30,7 +30,7 @@ This flour makes a good choice for people with health conditions like diabetes, 
 
 <div class='wastage'>
 
-    <img class='FoodWastage' src='/ASSETS/maize flour.jpg'/>
+    <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/maize flour.jpg'/>
 
 </div>
 
@@ -50,7 +50,7 @@ This flour makes a good choice for people with health conditions like diabetes, 
 
 <div class='wastage'>
 
-    <img class='FoodWastage' src='/ASSETS/rice.jpg'/>
+    <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/rice.jpg'/>
 
 </div>
 
@@ -71,7 +71,7 @@ The rice is locally grown in Uganda as the leading incorporating a natural and o
 
 <div class='wastage'>
 
-    <img class='FoodWastage' src='/ASSETS/gnuts.png'/>
+    <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gnuts.png'/>
 
 </div>
 
