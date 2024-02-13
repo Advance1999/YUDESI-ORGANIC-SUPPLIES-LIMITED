@@ -1,5 +1,5 @@
 
-<h1 class='HeaderHolder'> Cassava Flour</h1>
+<h1 class='HeaderHolder'> Yudesi Organic Cassava Flour</h1>
 
 <p class='Data'>
 
@@ -20,7 +20,7 @@ This flour makes a good choice for people with health conditions like diabetes, 
 </p>
 
 
-<h1 class='HeaderHolder'> Maize Flour</h1>
+<h1 class='HeaderHolder'>Yudesi Organic Maize Flour</h1>
 
 <p class='Data'>
 
@@ -40,7 +40,7 @@ This flour makes a good choice for people with health conditions like diabetes, 
 
 </p>
 
-<h1 class='HeaderHolder'> Rice </h1>
+<h1 class='HeaderHolder'> Yudesi Organic Rice </h1>
 
 <p class='Data'>
 
@@ -61,11 +61,11 @@ The rice is locally grown in Uganda as the leading incorporating a natural and o
 </p>
 
 
-<h1 class='HeaderHolder'> Ground Nuts </h1>
+<h1 class='HeaderHolder'> Yudesi Organic Ground Nuts </h1>
 
 <p class='Data'>
 
-   Ground Nuts Are clean And Organic food supplements are highly consumed in africa.
+   Ground Nuts Are clean And Organic with Natural Taste .
 
 </p>
 
