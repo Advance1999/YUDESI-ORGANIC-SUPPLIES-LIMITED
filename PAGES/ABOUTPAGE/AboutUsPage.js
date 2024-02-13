@@ -35,14 +35,7 @@ const ABOUTUSPAGE=(DIV)=>{
 
     .then(data=>{
 
-        DATADIV.innerHTML=data+`
-        
-        <div id='abvoutcallnumber' class='ContactUsDiv'>
-
-        <img  class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
-
-        </div>
-        `
+        DATADIV.innerHTML=data;
 
     })
 
