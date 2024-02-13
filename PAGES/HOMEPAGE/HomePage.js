@@ -36,9 +36,8 @@ const HOMEPAGE=(DIV)=>{
         <h1 class='APPHeader'>LOCATION</h1>
 
         <p class='Location'>
-        Yudesi Organic Supplies Limited is located At the following 
+        Yudesi Organic Supplies Limited is located At 
 
-        
         <b>KEBULA,KADERUNA-BUDAKA DISTRICT</b> 
 
         </p>
