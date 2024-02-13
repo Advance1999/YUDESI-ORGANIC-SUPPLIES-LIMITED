@@ -102,15 +102,11 @@ const HOMEPAGE=(DIV)=>{
 
         <div class='contactUsSections'>
 
-            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
+            <img id='callnumber' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
 
-            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/location.png'/>
+            <img id='gmail' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gmail-logo.png'/>
 
-            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gmail-logo.png'/>
-
-            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/mailbox.png'/>
-
-            <img class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/whatsapp.png'/>
+            <img id='whatsapp' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/whatsapp.png'/>
 
         </div>
 
@@ -121,6 +117,56 @@ const HOMEPAGE=(DIV)=>{
     </div>
     
     `;
+
+    //Contact Us
+    const callnumber = document.querySelector('#callnumber');
+
+    callnumber.addEventListener('click', () => {
+        const phoneNumber = '+256773456283'; 
+        window.location.href = 'tel:' + phoneNumber;
+    });
+
+    //whatsapp
+    const whatsapp = document.querySelector('#whatsapp');
+
+    callnumber.addEventListener('click', () => {
+        
+        const phoneNumber = '+256773456283'; // Replace this with the phone number you want to message on WhatsApp
+        const message = 'YUDESI ORGANIC SUPPLIES LIMITED'; // Optional: Replace this with the message you want to send
+    
+        // Constructing the WhatsApp URI
+        let whatsappURI = 'https://wa.me/' + phoneNumber;
+        if (message) {
+            whatsappURI += '?text=' + encodeURIComponent(message);
+        }
+    
+        // Opening WhatsApp
+        window.location.href = whatsappURI;
+        
+    });
+
+    //gmail
+    const gmail = document.querySelector('#gmail');
+
+    callnumber.addEventListener('click', () => {
+        
+        const emailAddress = 'yudesiorganicsuppliesltd@gmail.com'; // Replace this with the email address you want to open Gmail with
+        const subject = 'Subject'; // Optional: Replace this with the subject of the email
+        const body = 'Body'; // Optional: Replace this with the body of the email
+    
+        // Constructing the mailto URI
+        let mailtoURI = 'mailto:' + encodeURIComponent(emailAddress);
+        if (subject) {
+            mailtoURI += '?subject=' + encodeURIComponent(subject);
+        }
+        if (body) {
+            mailtoURI += (subject ? '&' : '?') + 'body=' + encodeURIComponent(body);
+        }
+    
+        // Opening Gmail
+        window.location.href = mailtoURI;
+        
+    });
 
     const ABOUTUS=document.querySelector('#AboutUs');
 

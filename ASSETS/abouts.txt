@@ -24,11 +24,11 @@
 
 <div class='wastage'>
 
-    <img class='FoodWastage' src='/ASSETS/food wastage.jpg'/>
+    <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/food wastage.jpg'/>
 
-    <img class='FoodWastage' src='/ASSETS/fod wastage 2.jpg'/>
+    <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/fod wastage 2.jpg'/>
 
-    <img class='FoodWastage' src='/ASSETS/food wastage 3.jpg'/>
+    <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/food wastage 3.jpg'/>
 
 </div>
 
