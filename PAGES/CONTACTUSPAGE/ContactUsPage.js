@@ -59,7 +59,7 @@ const CONTACTUSPAGE=(DIV)=>{
 
         <p class='Data'>
 
-        Send Us a Whats App Message on +256-773-456-283.
+        Send Us a Whats App Message on +256-775-901-235.
 
         </p>
 
@@ -102,7 +102,7 @@ const CONTACTUSPAGE=(DIV)=>{
     
         whatsapp.addEventListener('click', () => {
             
-            const phoneNumber = '+256773456283'; // Replace this with the phone number you want to message on WhatsApp
+            const phoneNumber = '+256775901235'; // Replace this with the phone number you want to message on WhatsApp
             const message = 'YUDESI ORGANIC SUPPLIES LIMITED'; // Optional: Replace this with the message you want to send
         
             // Constructing the WhatsApp URI
