@@ -37,7 +37,7 @@ const ABOUTUSPAGE=(DIV)=>{
 
         DATADIV.innerHTML=data+`
         
-        <div id='callnumber' class='ContactUsDiv'>
+        <div id='abvoutcallnumber' class='ContactUsDiv'>
 
         <img  class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
 
@@ -52,9 +52,9 @@ const ABOUTUSPAGE=(DIV)=>{
         HOMEPAGE(DIV);
     })
 
-    const callnumber = document.querySelector('#callnumber');
+    const abvoutcallnumber = document.querySelector('#abvoutcallnumber');
 
-    callnumber.addEventListener('click', () => {
+    abvoutcallnumber.addEventListener('click', () => {
         const phoneNumber = '+256773456283'; 
         window.location.href = 'tel:' + phoneNumber;
     });

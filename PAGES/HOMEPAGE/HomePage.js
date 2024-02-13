@@ -102,11 +102,11 @@ const HOMEPAGE=(DIV)=>{
 
         <div class='contactUsSections'>
 
-            <img id='callnumber' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
+            <img id='number' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
 
-            <img id='gmail' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gmail-logo.png'/>
+            <img id='homegmail' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gmail-logo.png'/>
 
-            <img id='whatsapp' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/whatsapp.png'/>
+            <img id='homewhatsapp' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/whatsapp.png'/>
 
         </div>
 
@@ -119,17 +119,17 @@ const HOMEPAGE=(DIV)=>{
     `;
 
     //Contact Us
-    const callnumber = document.querySelector('#callnumber');
+    const number = document.querySelector('#number');
 
-    callnumber.addEventListener('click', () => {
+    number.addEventListener('click', () => {
         const phoneNumber = '+256773456283'; 
         window.location.href = 'tel:' + phoneNumber;
     });
 
     //whatsapp
-    const whatsapp = document.querySelector('#whatsapp');
+    const homewhatsapp = document.querySelector('#homewhatsapp');
 
-    callnumber.addEventListener('click', () => {
+    homewhatsapp.addEventListener('click', () => {
         
         const phoneNumber = '+256773456283'; // Replace this with the phone number you want to message on WhatsApp
         const message = 'YUDESI ORGANIC SUPPLIES LIMITED'; // Optional: Replace this with the message you want to send
@@ -146,9 +146,9 @@ const HOMEPAGE=(DIV)=>{
     });
 
     //gmail
-    const gmail = document.querySelector('#gmail');
+    const homegmail = document.querySelector('#homegmail');
 
-    callnumber.addEventListener('click', () => {
+    homegmail.addEventListener('click', () => {
         
         const emailAddress = 'yudesiorganicsuppliesltd@gmail.com'; // Replace this with the email address you want to open Gmail with
         const subject = 'Subject'; // Optional: Replace this with the subject of the email

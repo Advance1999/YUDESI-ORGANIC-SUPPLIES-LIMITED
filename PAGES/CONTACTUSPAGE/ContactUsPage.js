@@ -18,7 +18,7 @@ const CONTACTUSPAGE=(DIV)=>{
 
         <div class='contactUsSections'>
 
-            <img id='callnumber' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
+            <img id='cccallnumber' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/call.png'/>
 
             <img id='gmail' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/gmail-logo.png'/>
 
@@ -90,9 +90,9 @@ const CONTACTUSPAGE=(DIV)=>{
     })
 
         //Contact Us
-        const callnumber = document.querySelector('#callnumber');
+        const cccallnumber = document.querySelector('#cccallnumber');
 
-        callnumber.addEventListener('click', () => {
+        cccallnumber.addEventListener('click', () => {
             const phoneNumber = '+256773456283'; 
             window.location.href = 'tel:' + phoneNumber;
         });
@@ -100,7 +100,7 @@ const CONTACTUSPAGE=(DIV)=>{
         //whatsapp
         const whatsapp = document.querySelector('#whatsapp');
     
-        callnumber.addEventListener('click', () => {
+        whatsapp.addEventListener('click', () => {
             
             const phoneNumber = '+256773456283'; // Replace this with the phone number you want to message on WhatsApp
             const message = 'YUDESI ORGANIC SUPPLIES LIMITED'; // Optional: Replace this with the message you want to send
@@ -119,7 +119,7 @@ const CONTACTUSPAGE=(DIV)=>{
         //gmail
         const gmail = document.querySelector('#gmail');
     
-        callnumber.addEventListener('click', () => {
+        gmail.addEventListener('click', () => {
             
             const emailAddress = 'yudesiorganicsuppliesltd@gmail.com'; // Replace this with the email address you want to open Gmail with
             const subject = 'Subject'; // Optional: Replace this with the subject of the email
