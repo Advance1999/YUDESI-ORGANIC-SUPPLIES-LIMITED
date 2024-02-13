@@ -28,7 +28,7 @@ const HOMEPAGE=(DIV)=>{
         
         <p>
         
-        We are the Leading Afro-Organic and Natural Food Suppliers Firm In Eastern Ugandan Providing Quality Afro-Organic and Natural Produce in the Following Sections.
+        We are the Leading Afro-Organic and Natural Food Suppliers Firm In Eastern Uganda Providing Quality Afro-Organic and Natural Produce in the Following Sections.
         <br><br>
         Rice,MaizeFlour,CassavaFlour,Beans,Sorghum and GroundNuts.
         <br><br>
