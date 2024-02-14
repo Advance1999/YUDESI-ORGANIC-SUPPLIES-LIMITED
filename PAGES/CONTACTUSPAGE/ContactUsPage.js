@@ -51,7 +51,7 @@ const CONTACTUSPAGE=(DIV)=>{
 
         <p class='Data'>
 
-        Send Us a Email at: yudesiorganicsuppliesltd@gmail.com
+        Email Us at: yudesiorganicsuppliesltd@gmail.com
 
         </p>
 
