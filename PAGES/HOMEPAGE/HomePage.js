@@ -122,7 +122,7 @@ const HOMEPAGE=(DIV)=>{
     const number = document.querySelector('#number');
 
     number.addEventListener('click', () => {
-        const phoneNumber = '+256773456283'; 
+        const phoneNumber = '+256775901235'; 
         window.location.href = 'tel:' + phoneNumber;
     });
 
@@ -131,7 +131,7 @@ const HOMEPAGE=(DIV)=>{
 
     homewhatsapp.addEventListener('click', () => {
         
-        const phoneNumber = '+256773456283'; // Replace this with the phone number you want to message on WhatsApp
+        const phoneNumber = '+256775901235'; // Replace this with the phone number you want to message on WhatsApp
         const message = 'YUDESI ORGANIC SUPPLIES LIMITED'; // Optional: Replace this with the message you want to send
     
         // Constructing the WhatsApp URI
