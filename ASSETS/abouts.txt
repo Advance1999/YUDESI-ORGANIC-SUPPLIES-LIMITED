@@ -3,7 +3,11 @@
 
 <p class='Data'>
 
-    Yudesi Organic Supplies Ltd is an agribusiness company located in Kebula, Kaderuna, Budaka District in Eastern Uganda engaged in trading high quality cassava flour,Maize Flour,Rice,Sorghum Flour,Beans,G.nuts and intends to venture into full scale production of High-Grade Flour and conversion of cassava peel waste to High-Quality Cassava Peel Mash (HQCPM) for animal feeds. 
+    Yudesi Organic Supplies Ltd is an agribusiness company located in Kebula, Kaderuna, Budaka District engaged in trading high quality cassava flour,Maize Flour,Rice,Sorghum Flour,Beans,G.nuts and intends to venture into full scale production of High-Grade Flour and conversion of cassava peel waste to High-Quality Cassava Peel Mash (HQCPM) for animal feeds. 
+
+    <br><br>
+
+    With sustainability as our cornerstone, we founded Yudesi Organic Supplies Ltd to bridge the gap between industrious farmers and customers seeking the very best in organic & natural produce. We’ve been able to do that and so much more – from meeting and exceeding our customers’ expectations to supporting our farmers at the grassroots level.
 
 </p>
 
@@ -52,7 +56,20 @@
 
 <div  id='achievemnts'>
 
+    <h1 class='HeaderHolder'>Organic And Natural </h1>
 
+    <p class='Data'>
+
+    Organic & Natural Is the Only Alternative Delivering Meaningful Health Results.
+    It is hard to miss the problems arising in the wake of the conventional food system–toxic exposures, birth defects, learning disabilities, obesity, water pollution, unacceptable suffering by farm animals, to name a few. While dozens of labels promise undefined and unverified benefits, the certified organic & natural label stands apart in delivering what people need–nutritious food, grown using methods that minimize the use of toxins while building soil quality and protecting water quality. A growing, dynamic organic & natural food sector will stimulate valuable changes benefiting all of agriculture, as well as everyone dependent on the farmer for three square meals a day
+
+    </p>
+
+    <div class='wastage'>
+
+        <img class='FoodWastage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/archievedcassava.jpg'/>
+
+    </div>
 
 </div>
 

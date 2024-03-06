@@ -1,3 +1,4 @@
+import { CONTACTUSPAGE } from "../CONTACTUSPAGE/ContactUsPage.js";
 import { HOMEPAGE } from "../HOMEPAGE/HomePage.js";
 
 const PRODUCTSPAGE=(DIV)=>{
@@ -13,7 +14,7 @@ const PRODUCTSPAGE=(DIV)=>{
 
     <h1 class='HeaderData'  >
     
-    <a href="#achievemnts">Order Today</a>
+    <a id='OrderToday' href="#achievemnts">Order Today</a>
 
     </h1>
 
@@ -42,12 +43,11 @@ const PRODUCTSPAGE=(DIV)=>{
         HOMEPAGE(DIV);
     })
 
-    const productcallnumber = document.querySelector('#productcallnumber');
+    const OrderToday=document.querySelector('#OrderToday');
 
-    productcallnumber.addEventListener('click', () => {
-        const phoneNumber = '+256773456283'; 
-        window.location.href = 'tel:' + phoneNumber;
-    });
+    OrderToday.addEventListener('click',()=>{
+        CONTACTUSPAGE(DIV);
+    })
 };
 
 export{PRODUCTSPAGE}

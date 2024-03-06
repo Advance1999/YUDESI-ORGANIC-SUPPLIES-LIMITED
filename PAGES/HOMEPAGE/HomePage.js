@@ -29,13 +29,25 @@ const HOMEPAGE=(DIV)=>{
         <p>
         
         We are the Leading Afro-Organic and Natural Food Supplies Firm In Eastern Uganda Providing Quality Afro-Organic and Natural Produce in the Following Products:
+        
         <br><br>
-        Rice,Maize Flour,Cassava Flour,Beans,Sorghum and GroundNuts.
+        &nbsp&nbsp&nbsp&nbsp Rice
+        <br>
+        &nbsp&nbsp&nbsp&nbspMaizeFlour
+        <br>
+        &nbsp&nbsp&nbsp&nbspCassavaFlour
+        <br>
+        &nbsp&nbsp&nbsp&nbspBeans
+        <br>
+        &nbsp&nbsp&nbsp&nbspSorghum 
+        <br>
+        &nbsp&nbsp&nbsp&nbspGroundNuts.
         <br><br>
         
         <h1 class='APPHeader'>LOCATION</h1>
 
         <p class='Location'>
+
         Yudesi Organic Supplies Limited is located At 
 
         <b>KEBULA,KADERUNA-BUDAKA DISTRICT</b> 
@@ -88,14 +100,7 @@ const HOMEPAGE=(DIV)=>{
 
         <p class='Data' id='hidestory'>
 
-            Yudesi Organic Supplies Ltd was conceptualized in 2021 and has humble beginnings as a cassava farm in Budaka district. As the concept picked up, the company was formally registered with the government of Uganda on 11th December 2023. Yudesi Organic Supplies Ltd is a privately owned limited liability company located in Kebula, Kaderuna, Budaka District. Following years of acting as a trader in dry cassava chips and cassava flour, Maize Flour and Rice, the company intends to setup a factory in Kebula to build the capacity to instantly purchase and process Maize Flour, High Quality Cassava Flour (HQCF) and convert cassava peel waste to High-Quality Cassava Peel Mash (HQCPM) for Animal Feeds. The company is setting up a network of over 400 smallholder contract farmers who will produce and sell to the factory. With the setup of a modern processing factory using modern flash drying technology in Budaka, the company will be able to process and market 50 tons of Flour per day in the early stages of production.
-
-            <br><br>
-
-            Uganda is known within the region as a country that is blessed with plenty and a wide variety of food. Food varieties are as many as tribes, ranging from maize, beans, banana, cassava, sweet potatoes, millet, sorghum, rice, field peas, cow peas, pigeon peas, groundnuts, sim sim, soya bean, Irish potatoes to mention but a few.
-
-            However, Uganda faces high levels of food loss and waste (FLW) along critical value chains. This is perpetuating food insecurity and compromising trade competitiveness.  Food losses and wastages arise mainly due to poor post-harvest handling practices and through the absence of adequate and appropriate food infrastructure in harvest and post-harvest systems. For example, during the preparation stages (poor drying leading to high moisture content) storage, transportation and processing.
-            Moreover, the majority of the farmers still use rudimentary methods like drying on uncovered ground, storage in sacks or pouring on ground, hand shelling or beating. Drying and storing on ground makes agricultural produce become susceptible to discolouration, and contamination with foreign matters, termite damage, mould and debris
+        Yudesi Organic Supplies Ltd was founded in 2015 in an age when going organic & natural was still more of a luxury than a lifestyle. Our main goal – which remains true today – was to make quality organic & natural ingredients more accessible to regional customers, while making our credible farmers economically secure and productive. We recognized that there were so many farmers in communities who had the potential to offer high-quality products, but no way to scale or market them. Uganda is known within the region as a country that is blessed with plenty and a wide variety of food. Food varieties are as many as tribes, ranging from maize, beans, banana, cassava, sweet potatoes, millet, sorghum, rice, field peas, cow peas, pigeon peas, groundnuts, sim sim, soya bean, Irish potatoes to mention but a few.
 
         </p>
 
@@ -108,10 +113,6 @@ const HOMEPAGE=(DIV)=>{
             <img id='homewhatsapp' class='callimage' src='https://advance1999.github.io/YUDESI-ORGANIC-SUPPLIES-LIMITED/ASSETS/whatsapp.png'/>
 
         </div>
-
-        
-
-        
     
     </div>
     
@@ -130,7 +131,7 @@ const HOMEPAGE=(DIV)=>{
 
     homewhatsapp.addEventListener('click', () => {
         
-        const phoneNumber = '+256775901235'; // Replace this with the phone number you want to message on WhatsApp
+        const phoneNumber = '+256773456283'; // Replace this with the phone number you want to message on WhatsApp
         const message = 'YUDESI ORGANIC SUPPLIES LIMITED'; // Optional: Replace this with the message you want to send
     
         // Constructing the WhatsApp URI
