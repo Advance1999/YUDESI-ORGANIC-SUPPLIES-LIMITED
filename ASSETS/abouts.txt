@@ -56,7 +56,7 @@
 
 <div  id='achievemnts'>
 
-    <h1 class='HeaderHolder'>Organic And Natural </h1>
+    <h1 class='HeaderHolder'>Yudesi Organic Supplies LTD</h1>
 
     <p class='Data'>
 
