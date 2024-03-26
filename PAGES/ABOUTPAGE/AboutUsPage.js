@@ -13,7 +13,7 @@ const ABOUTUSPAGE=(DIV)=>{
 
     <h1 class='HeaderData'  >
     
-    <a class='HeaderData' href="#achievemnts">Archievements</a>
+    <a class='HeaderData' href="#achievemnts">Achievements</a>
 
     </h1>
 
