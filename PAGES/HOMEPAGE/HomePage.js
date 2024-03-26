@@ -100,7 +100,7 @@ const HOMEPAGE=(DIV)=>{
 
         <p class='Data' id='hidestory'>
 
-        Yudesi Organic Supplies Ltd was founded in 2015 in an age when going organic & natural was still more of a luxury than a lifestyle. Our main goal – which remains true today – was to make quality organic & natural ingredients more accessible to regional customers, while making our credible farmers economically secure and productive. We recognized that there were so many farmers in communities who had the potential to offer high-quality products, but no way to scale or market them. Uganda is known within the region as a country that is blessed with plenty and a wide variety of food. Food varieties are as many as tribes, ranging from maize, beans, banana, cassava, sweet potatoes, millet, sorghum, rice, field peas, cow peas, pigeon peas, groundnuts, sim sim, soya bean, Irish potatoes to mention but a few.
+        Yudesi Organic Supplies Ltd was founded in 2021 in an age when going organic & natural was still more of a luxury than a lifestyle. Our main goal – which remains true today – was to make quality organic & natural ingredients more accessible to regional customers, while making our credible farmers economically secure and productive. We recognized that there were so many farmers in communities who had the potential to offer high-quality products, but no way to scale or market them. Uganda is known within the region as a country that is blessed with plenty and a wide variety of food. Food varieties are as many as tribes, ranging from maize, beans, banana, cassava, sweet potatoes, millet, sorghum, rice, field peas, cow peas, pigeon peas, groundnuts, sim sim, soya bean, Irish potatoes to mention but a few.
 
         </p>
 
