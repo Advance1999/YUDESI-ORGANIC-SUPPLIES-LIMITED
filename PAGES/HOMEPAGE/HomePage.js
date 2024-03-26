@@ -13,11 +13,11 @@ const HOMEPAGE=(DIV)=>{
         <h1 class='CompanyName'>YUDESI ORGANIC SUPPLIES LIMITED</h1>
         
 
-        <h1 id='AboutUs' class='HeaderData'>AboutUs</h1>
+        <h1 id='AboutUs' class='HeaderData'>About Us</h1>
 
         <h1 id='Products' class='HeaderData' >Products</h1>
 
-        <h1 id='ContactUs' class='HeaderData' >ContactUs</h1>
+        <h1 id='ContactUs' class='HeaderData' >Contact Us</h1>
 
     </header>
 
